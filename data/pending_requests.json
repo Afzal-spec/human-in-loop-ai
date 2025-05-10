@@ -1,0 +1,23 @@
+[
+    {
+        "id": "req_1746678392",
+        "question": "Do you offer nail services?",
+        "status": "unresolved",
+        "created_at": "2025-05-08T09:56:32.401691",
+        "response": null
+    },
+    {
+        "id": "req_1746781806",
+        "question": "Do you offer nail services?",
+        "status": "unresolved",
+        "created_at": "2025-05-09T14:40:06.495998",
+        "response": null
+    },
+    {
+        "id": "req_1746838349",
+        "question": "Do you offer nail services?",
+        "status": "resolved",
+        "created_at": "2025-05-10T06:22:29.609005",
+        "response": "Yes"
+    }
+]
